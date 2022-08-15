@@ -19,7 +19,7 @@
                Cybernetics, Part B, 43(3):820-828, 2013.
         -- [2] D. Cook, A. Crandall, B. Thomas, and N. Krishnan. CASAS: A smart home in
                a box. IEEE Computer, 46(6):26-33, 2013.
-        -- [3] D. Cook.  Learning setting-generalized activity models for smart spaces.
+        -- [3] D. Cook.  q
                IEEE Intelligent Systems, 27(1):32-38, 2012.
     -- Citation Request:
         -- D. Cook.  Learning setting-generalized activity models for smart spaces.
