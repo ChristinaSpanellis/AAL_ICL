@@ -1,0 +1,65 @@
+Threshold 0.3 with FS 
+	Random Anomalies
+	------------------------------
+	Correctly detected: mean=99.80% std=0.48%
+	Undetected: mean=0.20% std=0.48%
+	Falsely detected: mean=61.48% std=23.94%
+	------------------------------
+	Intentional Anomalies
+	------------------------------
+	Correctly detected: mean=64.95% std=13.72%
+	Undetected: mean=35.05% std=13.72%
+	Falsely detected: mean=64.68% std=24.60%
+	------------------------------
+Threshold 0.4 with FS 
+	Random Anomalies
+	------------------------------
+	Correctly detected: mean=95.95% std=1.85%
+	Undetected: mean=4.05% std=1.85%
+	Falsely detected: mean=60.78% std=23.66%
+	------------------------------
+	Intentional Anomalies
+	------------------------------
+	Correctly detected: mean=56.90% std=14.05%
+	Undetected: mean=43.10% std=14.05%
+	Falsely detected: mean=65.17% std=24.69%
+	------------------------------
+Threshold 0.5 with FS 
+	Random Anomalies
+	------------------------------
+	Correctly detected: mean=84.25% std=6.02%
+	Undetected: mean=15.75% std=6.02%
+	Falsely detected: mean=58.26% std=22.97%
+	------------------------------
+	Intentional Anomalies
+	------------------------------
+	Correctly detected: mean=44.15% std=13.19%
+	Undetected: mean=55.85% std=13.19%
+	Falsely detected: mean=65.44% std=24.87%
+	------------------------------
+Threshold 0.6 with FS 
+	Random Anomalies
+	------------------------------
+	Correctly detected: mean=67.90% std=12.60%
+	Undetected: mean=32.10% std=12.60%
+	Falsely detected: mean=53.60% std=22.77%
+	------------------------------
+	Intentional Anomalies
+	------------------------------
+	Correctly detected: mean=26.70% std=8.47%
+	Undetected: mean=73.30% std=8.47%
+	Falsely detected: mean=64.63% std=25.14%
+	------------------------------
+Threshold 0.7 with FS 
+	Random Anomalies
+	------------------------------
+	Correctly detected: mean=50.70% std=17.54%
+	Undetected: mean=49.30% std=17.54%
+	Falsely detected: mean=48.80% std=23.65%
+	------------------------------
+	Intentional Anomalies
+	------------------------------
+	Correctly detected: mean=12.20% std=6.27%
+	Undetected: mean=87.80% std=6.27%
+	Falsely detected: mean=65.07% std=25.67%
+	------------------------------
