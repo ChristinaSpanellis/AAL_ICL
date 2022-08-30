@@ -3,128 +3,108 @@ Threshold 0.3 with FS
 	------------------------------
 	Correctly detected: mean=93.25% std=2.38%
 	Undetected: mean=6.75% std=2.38%
-	Falsely detected: mean=60.23% std=23.46%
 	------------------------------
 	Intentional Anomalies
 	------------------------------
 	Correctly detected: mean=78.75% std=8.61%
 	Undetected: mean=21.25% std=8.61%
-	Falsely detected: mean=63.30% std=24.10%
 	------------------------------
 Threshold 0.4 with FS 
 	Random Anomalies
 	------------------------------
 	Correctly detected: mean=80.80% std=6.57%
 	Undetected: mean=19.20% std=6.57%
-	Falsely detected: mean=57.82% std=22.66%
 	------------------------------
 	Intentional Anomalies
 	------------------------------
 	Correctly detected: mean=60.50% std=12.26%
 	Undetected: mean=39.50% std=12.26%
-	Falsely detected: mean=64.61% std=24.44%
 	------------------------------
 Threshold 0.5 with FS 
 	Random Anomalies
 	------------------------------
 	Correctly detected: mean=65.00% std=11.62%
 	Undetected: mean=35.00% std=11.62%
-	Falsely detected: mean=54.48% std=21.45%
 	------------------------------
 	Intentional Anomalies
 	------------------------------
 	Correctly detected: mean=40.00% std=12.61%
 	Undetected: mean=60.00% std=12.61%
-	Falsely detected: mean=65.69% std=24.86%
 	------------------------------
 Threshold 0.6 with FS 
 	Random Anomalies
 	------------------------------
 	Correctly detected: mean=47.25% std=11.29%
 	Undetected: mean=52.75% std=11.29%
-	Falsely detected: mean=48.27% std=24.53%
 	------------------------------
 	Intentional Anomalies
 	------------------------------
 	Correctly detected: mean=20.30% std=5.93%
 	Undetected: mean=79.70% std=5.93%
-	Falsely detected: mean=63.97% std=24.98%
 	------------------------------
 Threshold 0.7 with FS 
 	Random Anomalies
 	------------------------------
 	Correctly detected: mean=30.40% std=9.12%
 	Undetected: mean=69.60% std=9.12%
-	Falsely detected: mean=45.27% std=25.31%
 	------------------------------
 	Intentional Anomalies
 	------------------------------
 	Correctly detected: mean=7.55% std=2.11%
 	Undetected: mean=92.45% std=2.11%
-	Falsely detected: mean=63.45% std=25.41%
 	------------------------------
 Threshold 0.3 with FS 
 	Random Anomalies
 	------------------------------
 	Correctly detected: mean=92.00% std=2.87%
 	Undetected: mean=8.00% std=2.87%
-	Falsely detected: mean=60.71% std=23.28%
 	------------------------------
 	Intentional Anomalies
 	------------------------------
 	Correctly detected: mean=73.65% std=11.88%
 	Undetected: mean=26.35% std=11.88%
-	Falsely detected: mean=63.98% std=24.43%
 	------------------------------
 Threshold 0.4 with FS 
 	Random Anomalies
 	------------------------------
 	Correctly detected: mean=80.45% std=6.42%
 	Undetected: mean=19.55% std=6.42%
-	Falsely detected: mean=57.76% std=22.60%
 	------------------------------
 	Intentional Anomalies
 	------------------------------
 	Correctly detected: mean=60.20% std=15.61%
 	Undetected: mean=39.80% std=15.61%
-	Falsely detected: mean=65.04% std=24.95%
 	------------------------------
 Threshold 0.5 with FS 
 	Random Anomalies
 	------------------------------
 	Correctly detected: mean=64.60% std=12.01%
 	Undetected: mean=35.40% std=12.01%
-	Falsely detected: mean=52.62% std=21.94%
 	------------------------------
 	Intentional Anomalies
 	------------------------------
 	Correctly detected: mean=40.90% std=15.33%
 	Undetected: mean=59.10% std=15.33%
-	Falsely detected: mean=65.02% std=25.53%
 	------------------------------
 Threshold 0.6 with FS 
 	Random Anomalies
 	------------------------------
 	Correctly detected: mean=45.15% std=11.97%
 	Undetected: mean=54.85% std=11.97%
-	Falsely detected: mean=46.95% std=22.15%
 	------------------------------
 	Intentional Anomalies
 	------------------------------
 	Correctly detected: mean=19.45% std=10.03%
 	Undetected: mean=80.55% std=10.03%
-	Falsely detected: mean=63.91% std=25.72%
 	------------------------------
 Threshold 0.7 with FS 
 	Random Anomalies
 	------------------------------
 	Correctly detected: mean=27.20% std=8.31%
 	Undetected: mean=72.80% std=8.31%
-	Falsely detected: mean=40.08% std=24.12%
 	------------------------------
 	Intentional Anomalies
 	------------------------------
 	Correctly detected: mean=5.65% std=4.27%
 	Undetected: mean=94.35% std=4.27%
-	Falsely detected: mean=65.52% std=26.48%
 	------------------------------
